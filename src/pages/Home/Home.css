@@ -1,0 +1,30 @@
+.home-container {
+    border: 1px solid;
+    height: 600px;
+    display: flex;
+    
+}
+
+.home-img {
+    border: 5px double gainsboro ;
+    border-radius: 15px;
+    height: 500px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.home-text {
+    border: 5px double gainsboro ;
+    border-radius: 15px;
+    margin-top: 10px;
+    height: 500px;
+    width: 500px;
+}
+
+.home-text-detail{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
